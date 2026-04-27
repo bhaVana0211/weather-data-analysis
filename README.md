@@ -97,3 +97,7 @@ Bhavana Kumari
 
 ## 📌 Conclusion
 This project demonstrates how machine learning and time series techniques can be used to analyze weather data and predict future temperature trends effectively.
+
+![Image Alt](https://github.com/bhaVana0211/weather-data-analysis/blob/2dcb57731f6a5370ff42266961921f2fe144b1bb/Screenshot%202026-04-27%20205404.png)
+![Image Alt](https://github.com/bhaVana0211/weather-data-analysis/blob/2dcb57731f6a5370ff42266961921f2fe144b1bb/Screenshot%202026-04-27%20205442.png)
+![Image Alt](https://github.com/bhaVana0211/weather-data-analysis/blob/2dcb57731f6a5370ff42266961921f2fe144b1bb/Screenshot%202026-04-27%20205546.png)
